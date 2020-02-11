@@ -13,7 +13,7 @@ It can handle datasets of an arbitrary number of dimension and runs on multiple 
 To install the repository from scratch, clone it to your computer using
 
 ```
-git clone https://github.com/VincentStimper/.git
+git clone https://github.com/VincentStimper/icp.git
 ```
 
 then go to the folder and install using `pip`
@@ -33,5 +33,5 @@ python setup.py install
 Update to the latest version directly from source
 
 ```
-pip install --upgrade git+https://github.com/VincentStimper/fuller.git
+pip install --upgrade git+https://github.com/VincentStimper/icp.git
 ```
