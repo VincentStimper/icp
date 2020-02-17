@@ -8,6 +8,11 @@ Point Set Registration with Integrated Scale Estimation](http://www5.informatik.
 It can handle datasets of an arbitrary number of dimension and runs on multiple CPUs and on GPU.
 
 
+## Requirements
+
+The package is tested and working with Tensorflow 1.14. Other required packages are specified in the requirements file.
+
+
 ## Methods of installation
 
 To install the repository from scratch, clone it to your computer using
