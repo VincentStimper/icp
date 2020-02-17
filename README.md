@@ -1,4 +1,4 @@
-# Interative Closest Point (ICP)
+# Iterative Closest Point (ICP)
 
 ## Introduction
 
